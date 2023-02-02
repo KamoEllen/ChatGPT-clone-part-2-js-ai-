@@ -1,4 +1,5 @@
+<img src="img/home.png" />
 
-<img width="100%" src="img/home.png" />
-
-<img width="100%" src="img/clip.mp4" />
+<video controls>
+  <source src="img/clip.mp4" type="video/mp4">
+</video>
