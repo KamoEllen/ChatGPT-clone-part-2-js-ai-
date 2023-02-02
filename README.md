@@ -1,3 +1,3 @@
 <img src="img/home.png" />
 
-[![Demo Video](img/thumbnail.png)](img/clip.mp4)
+[![Demo Video](img/home.png)](img/clip.mp4)
