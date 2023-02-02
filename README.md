@@ -1,1 +1,3 @@
-# ChatGPT-clone-part-2-js-ai-
+
+<img width="100%" src="img/home.png" />
+
